@@ -21,4 +21,4 @@ const Mohammad = {
     history: ["From a medical sales representative to a full-stack web developer with a business mindset"]
 };
 ```
-`![Demo Animation](https://github.com/Mohamad685/Mohamad685/blob/main/1_-ntL3Dsvc-dJ5cLGRtSuEw.gif?raw=true)`
+![Demo Animation](1_-ntL3Dsvc-dJ5cLGRtSuEw.gif?raw=true)
