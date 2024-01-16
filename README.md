@@ -1,6 +1,5 @@
 ```javascript
 const Mohammad = {
-    pronouns: "he" | "him",
     softSkills: ["Continuous Learning", "Time Management", "Team Work", "Leadership"],
     code: ["Javascript", "HTML", "CSS", "PHP", "MySQL", "MongoDB"],
     askMeAbout: ["web dev", "tech", "football", "business"],
