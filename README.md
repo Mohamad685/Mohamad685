@@ -1,3 +1,4 @@
+```javascript
 const Mohammad = {
     pronouns: "he" | "him",
     softSkills: ["Continuous Learning", "Time Management", "Team Work"],
