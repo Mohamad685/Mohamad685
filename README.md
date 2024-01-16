@@ -5,17 +5,17 @@ const Mohammad = {
     askMeAbout: ["web dev", "tech", "football", "business"],
     technologies: {
         webDesign: {
-            uiUx: ["Figma"],
-        },
+		uiUx: ["Figma"]
+  		},
         frontEnd: {
-            css: ["Bootstrap"],
-			libraries: ["React", "More to learn"]
+		css: ["Bootstrap"],
+  		libraries: ["React", "More to learn"]
 		},
-		backEnd: {
-			js: ["Node"],
-			php: ["Laravel"]
+	backEnd: {
+ 		js: ["Node"],
+		php: ["Laravel"]
 		},
-		tools: ["Git", "GitHub", "Firebase", "AWS"]
-		},
-	history: ["From a medical sales representative to a full-stack web developer with a business mindset"]
+  	tools: ["Git", "GitHub", "Firebase", "AWS"]
+	},
+    history: ["From a medical sales representative to a full-stack web developer with a business mindset"]
 };
