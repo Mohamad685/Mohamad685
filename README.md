@@ -20,3 +20,5 @@ const Mohammad = {
 	},
     history: ["From a medical sales representative to a full-stack web developer with a business mindset"]
 };
+```
+🛠  Tech Stacks
